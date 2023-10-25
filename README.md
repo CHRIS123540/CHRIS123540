@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHRIS123540
-- 👀 I’m interested in diy👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
-- 🌱 I’m currently learning 408
-- 📫 How to reach me 
+- 👀 I’m interested in HPC ,i.e. CUDA and network i.e. DPDK & DOCA
+- 🌱 I’m currently learning CUDA
+- 📫 How to reach me 735514368@qq.com
 
 <!---
 CHRIS123540/CHRIS123540 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
