@@ -1,8 +1,7 @@
 <!-- 背景图 -->
-<br />
-<img src="./assets/2.jpg" alt="GIF" width="200" align="bottom"/>
+<img src="./assets/2.jpg" alt="GIF" width="200" align="right"/>
+<img src="./assets/3.jpg" alt="GIF" width="200" align="right"/>
 
-<img src="./assets/3.jpg" alt="GIF" width="200" align="bottom"/>
 
 <!-- 关于我 -->
 <h2 height="50px" align="center">🎉 About Me</h2>
