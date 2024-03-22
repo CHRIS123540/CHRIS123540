@@ -1,8 +1,5 @@
 <!-- 背景图 -->
-<div style="text-align:right;">
-  <img src="./assets/2.jpg" alt="GIF" style="width: 200px; margin-right: 0; margin-bottom: 0;">
-  <img src="./assets/3.jpg" alt="GIF" style="width: 200px; margin-right: 0; margin-top: -5px;"> <!-- 调整margin-top为负值以减少间隙 -->
-</div>
+<img src="./assets/3.jpg" alt="GIF" width="200" align="right"/>
 
 
 <!-- 关于我 -->
