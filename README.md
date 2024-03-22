@@ -14,3 +14,9 @@
 - 👨‍💻 I'm passionate about coding and have been developing my skill.
 - ⛺️ I have a private site: [Lingxiang Hu](https://chris123540.github.io/test/), you're welcome to come!
 - 📨 My email address is `735514368@qq.com`. Welcome to contact me 👏🏻.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
