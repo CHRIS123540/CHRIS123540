@@ -1,7 +1,7 @@
 <!-- 背景图 -->
 <br />
 <br />
-<div style="display: flex; flex-direction: column; align-items: flex-end;">
+<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 0;">
   <img alt="GIF" src="./assets/2.jpg" width="300"/>
   <img alt="GIF" src="./assets/3.jpg" width="300"/>
 </div>
@@ -9,7 +9,10 @@
 <!-- 关于我 -->
 <h2 height="50px" align="center">🎉 About Me</h2>
 <br />
-
+<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 0;">
+  <img alt="GIF" src="./assets/2.jpg" width="300"/>
+  <img alt="GIF" src="./assets/3.jpg" width="300"/>
+</div>
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in HPC, i.e., CUDA and network i.e. DPDK & DOCA
 - 🔭 I’m currently working on [Repath](https://github.com/CHRIS123540/Repath).
