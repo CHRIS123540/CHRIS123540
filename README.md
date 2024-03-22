@@ -2,7 +2,6 @@
 <br />
 <img src="./assets/2.jpg" alt="GIF" width="200" align="bottom"/>
 
-<br clear="right"/>
 <img src="./assets/3.jpg" alt="GIF" width="200" align="bottom"/>
 
 <!-- 关于我 -->
