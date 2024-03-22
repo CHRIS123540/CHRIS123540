@@ -1,8 +1,10 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/2.jpg" width="300"/>
-<img align="right" alt="GIF" src="./assets/3.jpg" width="300"/>
+<div style="display: flex; flex-direction: column; align-items: flex-end;">
+  <img alt="GIF" src="./assets/2.jpg" width="300"/>
+  <img alt="GIF" src="./assets/3.jpg" width="300"/>
+</div>
 
 <!-- 关于我 -->
 <h2 height="50px" align="center">🎉 About Me</h2>
