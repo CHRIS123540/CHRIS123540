@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.5" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.5" pages="23">
   <diagram id="zUP_Fx5a56Ai_3BsRDEW" name="第 1 页">
     <mxGraphModel dx="2861" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3583,6 +3583,44 @@
             <mxPoint x="790" y="230" as="sourcePoint" />
             <mxPoint x="840" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IU0-3wPLIRniMoM8hC-G" name="哈希桶存储结构">
+    <mxGraphModel dx="1207" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r_BaWF6HMYn1Hql6R5ZY-8" value="&lt;span&gt;数据包计数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r_BaWF6HMYn1Hql6R5ZY-9" value="数据包目标数量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r_BaWF6HMYn1Hql6R5ZY-10" value="第&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;个数据包内容" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r_BaWF6HMYn1Hql6R5ZY-25" value="第&lt;font face=&quot;Times New Roman&quot;&gt;2&lt;/font&gt;个数据包内容" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r_BaWF6HMYn1Hql6R5ZY-26" value="第&lt;font face=&quot;Times New Roman&quot;&gt;N&lt;/font&gt;个数据包内容" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r_BaWF6HMYn1Hql6R5ZY-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xlrDi7CMbRo2HYEP4-y3-8" value="" style="group;rotation=90;fontFamily=宋体;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="329.99665649414067" y="429.9966870117188" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xlrDi7CMbRo2HYEP4-y3-2" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;fontSize=13;rotation=-90;" vertex="1" parent="xlrDi7CMbRo2HYEP4-y3-8">
+          <mxGeometry x="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xlrDi7CMbRo2HYEP4-y3-3" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;fontSize=13;rotation=-90;" vertex="1" parent="xlrDi7CMbRo2HYEP4-y3-8">
+          <mxGeometry x="20" y="-20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xlrDi7CMbRo2HYEP4-y3-7" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;fontSize=13;rotation=-90;" vertex="1" parent="xlrDi7CMbRo2HYEP4-y3-8">
+          <mxGeometry x="20" y="20" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
