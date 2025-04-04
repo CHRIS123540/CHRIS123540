@@ -3356,7 +3356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ppkNk9Q17sarmq89FOTI" name="抽象架构">
-    <mxGraphModel dx="1207" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="575" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3432,9 +3432,9 @@
             <mxPoint x="231.55692307692308" y="420.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aReLmHolA6KooqLkWsln-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=2.945161290322581;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;endWidth=5.483870967741935;fillColor=#FFF4C3;strokeColor=#36393d;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aReLmHolA6KooqLkWsln-40" edge="1">
+        <mxCell id="aReLmHolA6KooqLkWsln-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=2.945161290322581;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;endWidth=5.483870967741935;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="374.2461538461538" y="371" as="sourcePoint" />
+            <mxPoint x="319" y="350" as="sourcePoint" />
             <mxPoint x="374.2461538461538" y="420.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3453,9 +3453,9 @@
         <mxCell id="aReLmHolA6KooqLkWsln-28" value="VM3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;container=0;" parent="1" vertex="1">
           <mxGeometry x="448" y="420.4" width="55.38461538461539" height="37.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="aReLmHolA6KooqLkWsln-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=2.945161290322581;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;endWidth=5.483870967741935;fillColor=#B9E0A5;strokeColor=#36393d;" parent="1" edge="1">
+        <mxCell id="aReLmHolA6KooqLkWsln-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=2.945161290322581;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;endWidth=5.483870967741935;fillColor=#B9E0A5;strokeColor=#36393d;exitX=0.467;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aReLmHolA6KooqLkWsln-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="350" as="sourcePoint" />
             <mxPoint x="514.5538461538462" y="420.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
