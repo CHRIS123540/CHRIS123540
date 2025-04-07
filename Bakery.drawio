@@ -6014,6 +6014,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WaJilQm4cNMT496O1fuJ-3" value="缓冲" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;fontFamily=Times New Roman;fontSize=13;fillColor=#eeeeee;strokeColor=#36393d;container=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaJilQm4cNMT496O1fuJ-43" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaJilQm4cNMT496O1fuJ-4" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaJilQm4cNMT496O1fuJ-44" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaJilQm4cNMT496O1fuJ-45" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaJilQm4cNMT496O1fuJ-46" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaJilQm4cNMT496O1fuJ-47" value="流量分类模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#dae8fc;strokeColor=light-dark(#000000, #5c79a3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EevfQppZnswgiZAzs7KK-1" target="WaJilQm4cNMT496O1fuJ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-1" value="小批次" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=2;fillColor=none;strokeColor=#666666;fontColor=#333333;dashed=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-28" value="缓冲" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;fontFamily=Times New Roman;fontSize=13;fillColor=#eeeeee;strokeColor=#36393d;container=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-30" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-32" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-34" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-36" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-38" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-41" value="流量分类模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#dae8fc;strokeColor=light-dark(#000000, #5c79a3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EevfQppZnswgiZAzs7KK-44" target="EevfQppZnswgiZAzs7KK-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EevfQppZnswgiZAzs7KK-44" value="大批次" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=2;fillColor=none;strokeColor=#666666;fontColor=#333333;dashed=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
