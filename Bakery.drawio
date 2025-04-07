@@ -6076,23 +6076,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-18" value="大批次" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=2;fillColor=none;strokeColor=#666666;fontColor=#333333;dashed=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="NOSMS9Oi89w40G5TCV8Y-1" value="缓冲" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;fontFamily=Times New Roman;fontSize=13;fillColor=#eeeeee;strokeColor=#36393d;container=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-2" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="285" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="NOSMS9Oi89w40G5TCV8Y-3" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="285" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-4" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="285" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-5" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="285" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-6" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="285" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NOSMS9Oi89w40G5TCV8Y-7" value="流量分类模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#dae8fc;strokeColor=light-dark(#000000, #5c79a3);container=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="80" height="30" as="geometry" />
@@ -6106,29 +6097,14 @@
         <mxCell id="NOSMS9Oi89w40G5TCV8Y-10" value="缓冲" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;fontFamily=Times New Roman;fontSize=13;fillColor=#eeeeee;strokeColor=#36393d;container=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="450" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-11" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="455" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="NOSMS9Oi89w40G5TCV8Y-12" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="455" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-13" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="455" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-14" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="455" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-15" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="455" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NOSMS9Oi89w40G5TCV8Y-16" value="流量分类模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#dae8fc;strokeColor=light-dark(#000000, #5c79a3);container=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NOSMS9Oi89w40G5TCV8Y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="NOSMS9Oi89w40G5TCV8Y-18" target="NOSMS9Oi89w40G5TCV8Y-16">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NOSMS9Oi89w40G5TCV8Y-18" value="大批次" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=2;fillColor=none;strokeColor=#666666;fontColor=#333333;dashed=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="440" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
