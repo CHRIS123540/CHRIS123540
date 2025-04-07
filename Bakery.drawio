@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.8" pages="35">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.8" pages="36">
   <diagram id="zUP_Fx5a56Ai_3BsRDEW" name="第 1 页">
     <mxGraphModel dx="2861" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6066,6 +6066,68 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EevfQppZnswgiZAzs7KK-44" value="大批次" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=2;fillColor=none;strokeColor=#666666;fontColor=#333333;dashed=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zhKN5vXEK6nuOV7DEU7o" name="低负载场景">
+    <mxGraphModel dx="1236" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-1" value="缓冲" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;fontFamily=Times New Roman;fontSize=13;fillColor=#eeeeee;strokeColor=#36393d;container=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-2" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-3" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-4" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-5" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-6" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-7" value="流量分类模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#dae8fc;strokeColor=light-dark(#000000, #5c79a3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="NOSMS9Oi89w40G5TCV8Y-9" target="NOSMS9Oi89w40G5TCV8Y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-9" value="小批次" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=2;fillColor=none;strokeColor=#666666;fontColor=#333333;dashed=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-10" value="缓冲" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;fontFamily=Times New Roman;fontSize=13;fillColor=#eeeeee;strokeColor=#36393d;container=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-11" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-12" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-13" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-14" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-15" value="模型输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#B9E0A5;strokeColor=light-dark(#000000,#5C79A3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-16" value="流量分类模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#dae8fc;strokeColor=light-dark(#000000, #5c79a3);container=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="NOSMS9Oi89w40G5TCV8Y-18" target="NOSMS9Oi89w40G5TCV8Y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NOSMS9Oi89w40G5TCV8Y-18" value="大批次" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=2;fillColor=none;strokeColor=#666666;fontColor=#333333;dashed=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="440" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
