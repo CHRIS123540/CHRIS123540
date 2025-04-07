@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.8" pages="34">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.8" pages="35">
   <diagram id="zUP_Fx5a56Ai_3BsRDEW" name="第 1 页">
     <mxGraphModel dx="2861" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6006,6 +6006,14 @@
         <mxCell id="aS2wNYcSXjNCja6Qma_L-88" value="IP2模型输入" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#000000, #446e2c);fillColor=#fff2cc;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="680" y="250" width="80" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1VEQPKSuhq3Ob5ZLJQtp" name="高负载场景">
+    <mxGraphModel dx="1236" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
