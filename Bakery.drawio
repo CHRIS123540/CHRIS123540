@@ -6000,14 +6000,11 @@
             <mxPoint x="670" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aS2wNYcSXjNCja6Qma_L-87" value="IP1流信息" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#000000, #446e2c);fillColor=#d5e8d4;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="680" y="130" width="80" height="60" as="geometry" />
+        <mxCell id="aS2wNYcSXjNCja6Qma_L-87" value="IP1模型输入" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#000000, #446e2c);fillColor=#d5e8d4;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aS2wNYcSXjNCja6Qma_L-88" value="IP2流信息" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#000000, #446e2c);fillColor=#fff2cc;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="680" y="210" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aS2wNYcSXjNCja6Qma_L-89" value="IP3流信息" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#000000, #446e2c);fillColor=#f8cecc;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="680" y="290" width="80" height="60" as="geometry" />
+        <mxCell id="aS2wNYcSXjNCja6Qma_L-88" value="IP2模型输入" style="whiteSpace=wrap;html=1;strokeColor=light-dark(#000000, #446e2c);fillColor=#fff2cc;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
