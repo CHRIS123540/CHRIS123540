@@ -5859,7 +5859,7 @@
         <mxCell id="aS2wNYcSXjNCja6Qma_L-8" value="IP2" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="79.9999999999998" y="360" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aS2wNYcSXjNCja6Qma_L-49" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="aS2wNYcSXjNCja6Qma_L-49" value="" style="group;fontFamily=Times New Roman;fontSize=13;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="120" y="80" width="80" height="320" as="geometry" />
         </mxCell>
         <mxCell id="aS2wNYcSXjNCja6Qma_L-17" value="数据包1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontFamily=Times New Roman;fontSize=13;container=0;" vertex="1" parent="aS2wNYcSXjNCja6Qma_L-49">
@@ -5886,7 +5886,7 @@
         <mxCell id="aS2wNYcSXjNCja6Qma_L-24" value="数据包8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=default;fontFamily=Times New Roman;fontSize=13;container=0;" vertex="1" parent="aS2wNYcSXjNCja6Qma_L-49">
           <mxGeometry y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aS2wNYcSXjNCja6Qma_L-50" value="流重组" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aS2wNYcSXjNCja6Qma_L-50" value="流重组" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="240" as="sourcePoint" />
             <mxPoint x="270" y="240" as="targetPoint" />
@@ -5940,7 +5940,7 @@
         <mxCell id="aS2wNYcSXjNCja6Qma_L-67" value="数据包4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#263e0f, #d7817e);fontFamily=Times New Roman;fontSize=13;container=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aS2wNYcSXjNCja6Qma_L-68" value="重排序" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aS2wNYcSXjNCja6Qma_L-68" value="重排序" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="240" as="sourcePoint" />
             <mxPoint x="470" y="240" as="targetPoint" />
@@ -5994,7 +5994,7 @@
         <mxCell id="aS2wNYcSXjNCja6Qma_L-84" value="数据包4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#263e0f, #d7817e);fontFamily=Times New Roman;fontSize=13;container=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aS2wNYcSXjNCja6Qma_L-85" value="预处理" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aS2wNYcSXjNCja6Qma_L-85" value="预处理" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="239" as="sourcePoint" />
             <mxPoint x="670" y="239" as="targetPoint" />
