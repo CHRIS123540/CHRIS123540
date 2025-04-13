@@ -3582,7 +3582,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JD52p055S--8_YacoJn5-6" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;fontFamily=Times New Roman;fontSize=13;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="20" height="240" as="geometry" />
+          <mxGeometry x="290" y="480" width="30" height="240" as="geometry" />
         </mxCell>
         <mxCell id="JD52p055S--8_YacoJn5-7" value="头部" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;elbow=vertical;" edge="1" parent="1" source="JD52p055S--8_YacoJn5-6" target="JD52p055S--8_YacoJn5-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
